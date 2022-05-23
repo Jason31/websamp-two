@@ -225,10 +225,10 @@ body{
 .middle-section-0, .middle-section-1, .middle-section-2{
 	display: flex;
 	flex-direction: column;
-	gap: 2rem;
+	margin-top: 2rem;
 	box-shadow: 0 5px 5px -5px gainsboro;
         width: 95%;
-        margin: 0 auto;
+        
 }
 .middle-container-0, .middle-container-1, .middle-container-2{
 	display: flex;
