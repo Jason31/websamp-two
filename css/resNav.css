@@ -227,6 +227,8 @@ body{
 	flex-direction: column;
 	margin-bottom: 2rem;
 	box-shadow: 0 5px 5px -5px gainsboro;
+        width: 95%;
+        margin: 0 auto;
 }
 .middle-container-0, .middle-container-1, .middle-container-2{
 	display: flex;
