@@ -250,9 +250,9 @@ body{
 #carouselExample{
 	height: auto;
 }
-.carousel-title, .carousel-para{
-	margin-bottom: 60px;
-	color: red;
+.img-carousel{
+height:auto;
+width:100%;
 }
 .middle-section-0, .middle-section-1, .middle-section-2{
 	display: flex;
