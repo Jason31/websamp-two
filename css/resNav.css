@@ -329,6 +329,8 @@ transition: max-height 0s ease-in !important;
 }
 .socMed{
 	order: -1;
+       width: 25%;
+       background: gray;
 
 }
 
