@@ -213,9 +213,6 @@ body{
 	background: #333;
 	color: ghostwhite;
 }
-.currentYear{
-	margin-right: 5px;
-}
 .socMed{
 	display: flex;
 	gap: 1.5rem;
@@ -329,9 +326,9 @@ transition: max-height 0s ease-in !important;
 }
 .currentYear{
         width:25%;
-        background: yellow;
-        position: relative:
-        left: 50px;     
+        background: orange;
+        position: absolute:
+        left: 30px;     
 
 }
 .socMed{
