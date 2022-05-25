@@ -326,6 +326,8 @@ transition: max-height 0s ease-in !important;
 }
 .copyright-section{
 	flex-direction: column;
+}
+.currentYear{
         width:25%;
         background: gray;
 }
