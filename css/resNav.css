@@ -326,12 +326,11 @@ transition: max-height 0s ease-in !important;
 }
 .copyright-section{
 	flex-direction: column;
+        width:25%;
+        background: gray;
 }
 .socMed{
 	order: -1;
-       width: 25%;
-       background: gray;
-
 }
 
  @media screen and (min-width: 798px) {
