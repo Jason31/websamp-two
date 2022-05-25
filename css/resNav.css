@@ -320,7 +320,7 @@ transition: max-height 0s ease-in !important;
 }
 .footer-section{
 	flex-direction: column;
-        margin-top: 15px;
+        margin-top: 30px;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
