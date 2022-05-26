@@ -291,7 +291,7 @@ cursor: pointer;
 .nav-folderized ul { 
 max-height: 0; 
 overflow:hidden; 
-transition: max-height 1s ease-out; 
+transition: max-height 0.3s ease-out; 
 }
 
 
@@ -306,7 +306,7 @@ content: "-";
 .nav-folderized .nav.open ul { 
 height: auto; 
 max-height: 500px; 
-transition: max-height 0s ease-in !important; 
+transition: max-height 0.3s ease-in !important; 
 }
 /**nav-expand for footer with head and ul**/
 
