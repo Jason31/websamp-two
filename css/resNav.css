@@ -297,7 +297,8 @@ transition: max-height 0.3s ease-out;
 
 .nav-folderized .nav h5:after {
 content: "+"; 
-margin-left: 12px;
+position: absolute;
+right: 50px;
 }
 
 .nav-folderized .nav.open h5:after { 
