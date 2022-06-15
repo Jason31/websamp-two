@@ -354,7 +354,7 @@ transition: max-height 0.3s ease-in !important;
      border-radius: 1px;
      height: 3px;
      width: 30px;
-     background: #333;
+     background: whitesmoke;
      position: absolute;
      display: block;
      content: '';
