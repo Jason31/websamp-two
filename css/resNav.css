@@ -298,7 +298,7 @@ transition: max-height 0.3s ease-out;
 .nav-folderized .nav h5:after {
 content: "+"; 
 position: absolute;
-right: 40px;
+right: 15px;
 }
 
 .nav-folderized .nav.open h5:after { 
@@ -319,6 +319,7 @@ transition: max-height 0.3s ease-in !important;
 .footer-section{
 	flex-direction: column;
 	margin-top: 30px;
+	padding-left: 15px;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
@@ -353,7 +354,7 @@ transition: max-height 0.3s ease-in !important;
      border-radius: 1px;
      height: 3px;
      width: 30px;
-     background: #ffffff;
+     background: #333;
      position: absolute;
      display: block;
      content: '';
