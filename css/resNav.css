@@ -14,7 +14,7 @@ body{
 }
  .navigation {
      height: 55px;
-     background: linear-gradient(45deg, #202020, gainsboro);
+     background: linear-gradient(5deg, #333, gainsboro);
      position: fixed;
      width: 100%;
      z-index: 999;
@@ -52,7 +52,7 @@ body{
      display: block;
      padding: 0 20px;
      line-height: 55px;
-     color: #fff;
+     color: whitesmoke;
      background: #262626 ;
      text-decoration: none;
 }
@@ -61,7 +61,7 @@ body{
      color: #FFF;
 }
  nav ul li a:hover, nav ul li a:visited:hover {
-     background: lightgray;
+     background: ghostwhite;
      color: #333;
 }
  .navbar-dropdown li a{
