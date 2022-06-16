@@ -14,7 +14,7 @@ body{
 }
  .navigation {
      height: 55px;
-     background: linear-gradient(45deg, gray, gainsboro);
+     background: linear-gradient(45deg, #202020, gainsboro);
      position: fixed;
      width: 100%;
      z-index: 999;
