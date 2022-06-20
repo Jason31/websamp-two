@@ -319,12 +319,10 @@ transition: max-height 0.3s ease-in !important;
 .footer-section{
 	flex-direction: column;
 	margin: 0;
-        height: 300px;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
-        padding: 5px;
 }
 .copyright-section{
 	display: block;
@@ -338,7 +336,8 @@ transition: max-height 0.3s ease-in !important;
 	margin: 40px 0 0 25px;
 }
 .ftrHeader{ 
-  display: inline-block;
+  display: inline-block; 
+  padding: 5px;
   
 }
 
