@@ -186,8 +186,8 @@ body{
 }
 .footer-section{	
     display: flex;	
-	justify-content: ;
-	background: gray;
+	justify-content: space-around ;
+	background: whitesmoke;
 	box-shadow: 0 -5px 5px -5px gainsboro;
         margin-left: 12px;
 
@@ -316,7 +316,9 @@ transition: max-height 0.3s ease-in !important;
   margin-left: 12px;
  
 }
-.ftrHeader{
+.ftrHeader{ 
+  padding: 0;
+  display: inline-block;
    
 }
 .footer-section{
