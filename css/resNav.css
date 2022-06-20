@@ -322,13 +322,12 @@ transition: max-height 0.3s ease-in !important;
    
 }
 .footer-section{
-	flex-direction: column;
+	display: block;
 	margin: 30px 0 0 0;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
-        padding: 0;
 }
 .copyright-section{
 	display: block;
