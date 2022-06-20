@@ -318,7 +318,7 @@ transition: max-height 0.3s ease-in !important;
 }
 .footer-section{
 	flex-direction: column;
-	margin: 0;
+	margin-top: 20px;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
