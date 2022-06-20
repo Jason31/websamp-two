@@ -338,7 +338,7 @@ transition: max-height 0.3s ease-in !important;
 }
 h5{
   display: inline-block;
-  padding: 5px;
+color:red;
 }
 
  @media screen and (min-width: 798px) {
