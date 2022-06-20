@@ -316,6 +316,9 @@ transition: max-height 0.3s ease-in !important;
   margin-left: 12px;
  
 }
+.ftrHeader{
+   
+}
 .footer-section{
 	flex-direction: column;
 	margin: 30px 0 0 0;
@@ -334,11 +337,6 @@ transition: max-height 0.3s ease-in !important;
 }
 .currentYear{
 	margin: 40px 0 0 25px;
-}
-.ftrHeader{ 
-  display: block; 
-  padding: 5px;
-  
 }
 
  @media screen and (min-width: 798px) {
