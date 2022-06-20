@@ -312,9 +312,9 @@ transition: max-height 0.3s ease-in !important;
 /**nav-expand for footer with head and ul**/
 
 
-.ftr__list{
-	display: flex;
-	flex-direction: column;
+.ftr__list li{
+   padding: 5px;
+   margin-left: 7px;
 }
 .footer-section{
 	flex-direction: column;
@@ -335,6 +335,10 @@ transition: max-height 0.3s ease-in !important;
 }
 .currentYear{
 	margin: 40px 0 0 25px;
+}
+h2{
+  display: inline-block;
+  padding: 5px;
 }
 
  @media screen and (min-width: 798px) {
