@@ -326,6 +326,7 @@ transition: max-height 0.3s ease-in !important;
 }
 .footer-ul{
 	border-bottom: 1px solid #333;
+        padding: 0;
 }
 .copyright-section{
 	display: block;
