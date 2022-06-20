@@ -338,7 +338,7 @@ transition: max-height 0.3s ease-in !important;
 }
 .ftr__list h5{
   display: inline-block;
-color: green;
+  padding: 5px;
 }
 
  @media screen and (min-width: 798px) {
