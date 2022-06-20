@@ -93,10 +93,6 @@ body{
      height: 55px;
      width: 70px;
 }
-.main-container{
-	background: ;
-	border:;
-}
 .img-carousel{
   height: 600px;
   object-fit: cover;
@@ -322,6 +318,7 @@ transition: max-height 0.3s ease-in !important;
 .footer-section{
 	display: block;
 	margin: 2rem 0 0 0;
+background: pink;
 
 
 }
