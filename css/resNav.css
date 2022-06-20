@@ -186,7 +186,7 @@ body{
 }
 .footer-section{	
     display: flex;	
-	justify-content: space-around;
+	justify-content: ;
 	background: whitesmoke;
 	box-shadow: 0 -5px 5px -5px gainsboro;
         margin-left: 12px;
