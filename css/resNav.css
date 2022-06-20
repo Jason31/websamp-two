@@ -313,7 +313,7 @@ transition: max-height 0.3s ease-in !important;
 
 .ftr__list li{ 
   padding: 5px;
-  margin-left 6px;
+  margin-left 7px;
  
 }
 .footer-section{
@@ -335,7 +335,7 @@ transition: max-height 0.3s ease-in !important;
 .currentYear{
 	margin: 40px 0 0 25px;
 }
-.ftr__list h5{
+.ftrHeader{
   display: inline-block;
   padding: 5px;
 }
