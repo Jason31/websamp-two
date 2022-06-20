@@ -188,7 +188,7 @@ body{
     display: flex;	
 	justify-content: space-around ;
 	background: whitesmoke;
-	box-shadow: 0 -5px 5px -5px gainsboro;
+	box-shadow:;
         margin-left: 12px;
 
 }
