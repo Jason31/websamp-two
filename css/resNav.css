@@ -317,7 +317,7 @@ transition: max-height 0.3s ease-in !important;
  
 }
 .ftrHeader{ 
-  padding: 0;
+  padding: 20px;
   display: inline-block;
    
 }
