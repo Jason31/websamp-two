@@ -191,6 +191,7 @@ body{
 	justify-content: space-around;
 	background: whitesmoke;
 	box-shadow: 0 -5px 5px -5px gainsboro;
+        margin-left: 12px;
 
 }
 .ftr__list{
@@ -319,7 +320,6 @@ transition: max-height 0.3s ease-in !important;
 .footer-section{
 	flex-direction: column;
 	margin-top: 30px;
-	padding-left: 15px;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
