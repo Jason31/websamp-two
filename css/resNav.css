@@ -196,7 +196,7 @@ body{
 	display: flex;
 	flex-direction: column;
 }
-.ftr__list, .footer-ul, .nav li a{
+.ftr__list, .nav li a{
 	color: #333;
 	
 	padding: 0;
@@ -326,7 +326,7 @@ transition: max-height 0.3s ease-in !important;
 	margin: 30px 0 0 0;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
-.footer-ul{
+.{
 	border-bottom: 1px solid #333;
 }
 .copyright-section{
