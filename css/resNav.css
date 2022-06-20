@@ -1,15 +1,13 @@
  @import url('https://fonts.googleapis.com/css?family=Roboto');
 *{
 	box-sizing: border-box;
+        padding: 0;
+        margin: 0;
 }
 html{
 	scroll-behavior: smoooth;
 }
 body{
-    margin: 0;
-    padding: 0;
-    height: auto;
-    width: 100%;
     font-family: 'Roboto', sans-serif;
 }
  .navigation {
@@ -313,13 +311,14 @@ transition: max-height 0.3s ease-in !important;
 /**nav-expand for footer with head and ul**/
 
 
-.ftr__list li{
+.ftr__list li{ 
+  padding: 5px;
+  margin-left 6px;
  
 }
 .footer-section{
 	flex-direction: column;
-	margin: 0px 0 0 0;
-
+	margin: 0;
 	box-shadow: 0 -3px 3px -3px gainsboro;
 }
 .footer-ul{
@@ -338,6 +337,7 @@ transition: max-height 0.3s ease-in !important;
 }
 .ftr__list h5{
   display: inline-block;
+  padding: 5px;
 }
 
  @media screen and (min-width: 798px) {
