@@ -13,7 +13,7 @@ body{
 }
  .navigation {
      height: 55px;
-     background: linear-gradient(5deg, #333, gainsboro);
+     background: linear-gradient(5deg, #333, black);
      position: fixed;
      width: 100%;
      z-index: 999;
@@ -220,7 +220,7 @@ wrapper {
 	z-index: ;
 }
 .middle-text-title{
-	padding: 9px 0 9px 9px;
+	padding: 9px 0 9px 7px;
 	font-weight: bold;
 }
 /* third niddle content */
