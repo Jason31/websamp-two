@@ -9,6 +9,7 @@ html{
 }
 body{
     font-family: 'Roboto', sans-serif;
+    color: #333;
 }
  .navigation {
      height: 55px;
@@ -203,7 +204,9 @@ wrapper {
 	width: 400px;
 	right: 230px;
 }
-
+.middle-para{
+      font-size: 15px;
+}
 /* second middle content */
 .middle-container-1{
 	right: 325px;
@@ -328,7 +331,7 @@ wrapper {
 	flex-direction: column;
 	margin: 2rem auto 0 auto;
 	box-shadow: 0 5px 5px -5px gainsboro;
-	width: 98%;
+	width: 94%;
 }
 .middle-container-0, .middle-container-1, .middle-container-2{
 	display: flex;
