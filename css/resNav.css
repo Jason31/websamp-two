@@ -220,7 +220,7 @@ wrapper {
 	z-index: ;
 }
 .middle-text-title{
-	letter-spacing: ;
+	padding: 9px;
 	font-weight: bold;
 }
 /* third niddle content */
@@ -239,7 +239,7 @@ wrapper {
 }
 .middle-para{
   font-size: 17px;
-  padding: 6px;
+  padding: 7px;
 }
 
 
