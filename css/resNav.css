@@ -352,6 +352,9 @@ wrapper {
 	right: 0;
 	left: 0;
 }
+.middle-img-2{
+        object-fit: contain;
+}
  .middle-container-0, .middle-container-2{
 	 order: 1;
  }
