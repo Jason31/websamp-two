@@ -169,10 +169,12 @@ wrapper {
 
 .carousel-arrow-next {
   right: 20px;
+  color: #333;
 }
 
 .carousel-arrow-prev {
   left: 20px;
+  color: #333;
   -webkit-transform: rotateZ(180deg);
   -ms-transform: rotate(180deg);
   transform: rotateZ(180deg);
