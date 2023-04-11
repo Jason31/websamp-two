@@ -5,7 +5,7 @@
         margin: 0;
 }
 html{
-	scroll-behavior: smoooth;
+	scroll-behavior: smooth;
 }
 body{
     font-family: 'Roboto', sans-serif;
@@ -199,6 +199,7 @@ wrapper {
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
 	position: relative
+        
 }
 .middle-img-0{
 	height: 400px;
@@ -345,8 +346,8 @@ wrapper {
 	box-shadow: none;
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
-	width: 100%;
-	height: auto;
+	min-width: 100%;
+	min-height:240px;
 	top: 0;
 	bottom: 0;
 	right: 0;
