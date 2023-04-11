@@ -267,7 +267,6 @@ wrapper {
         display: flex;	
 	justify-content: space-around ;
 	background: whitesmoke;
-	box-shadow:;
 
 }
 .ftr__list{
@@ -337,7 +336,6 @@ wrapper {
 .middle-container-0, .middle-container-1, .middle-container-2{
 	display: flex;
 	flex-direction: column;
-        border: 2px solid red;
 	top: 0;
 	right: 0;
 	bottom: 0;
@@ -347,11 +345,12 @@ wrapper {
 	box-shadow: none;
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
-	min-width: 100%;
-	min-height: 100%;
-        height: auto;
-        width: auto;
-        border: 2px solid green;
+	display: flex
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        width: 100%;
+	height: 200px;
 	top: 0;
 	bottom: 0;
 	right: 0;
