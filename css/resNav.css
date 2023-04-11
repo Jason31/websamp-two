@@ -346,8 +346,8 @@ wrapper {
 	box-shadow: none;
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
-	min-width: 100%;
-	min-height:240px;
+	width: 100%;
+	height: 40%;
 	top: 0;
 	bottom: 0;
 	right: 0;
