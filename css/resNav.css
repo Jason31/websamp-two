@@ -337,7 +337,7 @@ wrapper {
 .middle-container-0, .middle-container-1, .middle-container-2{
 	display: flex;
 	flex-direction: column;
-        border-color: red;
+        border: 2px solid red;
 	top: 0;
 	right: 0;
 	bottom: 0;
