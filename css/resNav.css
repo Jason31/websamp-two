@@ -369,13 +369,13 @@ transition: max-height 0.3s ease-out;
 
 
 .nav-folderized .nav h3:after {
-content: "U+2304"; 
+content: "+"; 
 position: absolute;
 right: 20px;
 }
 
 .nav-folderized .nav.open h3:after { 
-content: "^"; 
+content: "-"; 
 }
 .nav-folderized .nav.open ul { 
 height: auto; 
