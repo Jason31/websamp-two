@@ -345,10 +345,6 @@ wrapper {
 	box-shadow: none;
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
-	display: flex
-        flex-direction: column;
-        align-content: center;
-        align-items: center;
         width: 100%;
 	height: auto;
 	top: 0;
