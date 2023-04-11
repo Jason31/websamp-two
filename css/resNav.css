@@ -347,9 +347,11 @@ wrapper {
 	box-shadow: none;
 }
 .middle-img-0, .middle-img-1, .middle-img-2{
-	width: 100%;
-	height: 40%;
-        object-fit: cover;
+	min-width: 100%;
+	min-height: 100%;
+        height: auto;
+        width: auto;
+        border: 2px solid green;
 	top: 0;
 	bottom: 0;
 	right: 0;
