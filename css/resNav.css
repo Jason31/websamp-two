@@ -354,8 +354,8 @@ wrapper {
 }
 .middle-img-2{
         object-fit: cover;
-        border: 2px solid pink;
-        width:  150px;
+        border: 2px solid blue;
+        width:  2800px;
 }
  .middle-container-0, .middle-container-2{
 	 order: 1;
